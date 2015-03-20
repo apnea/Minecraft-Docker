@@ -7,7 +7,7 @@
 
 # We build off totokaka/minecraft-base
 FROM totokaka/minecraft-base
-
+# some more comments
 MAINTAINER totokaka <mail@totokaka.io>
 
 # We need the spigot jar
